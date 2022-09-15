@@ -21,6 +21,11 @@ header h1 {
   font-size: 1.5em;
   letter-spacing: 2px;
   font-weight: normal;
+<<<<<<< HEAD
+=======
+  text-align: right;
+  padding-right: 5px;
+>>>>>>> 9c748bad7897acb9c726b4049ac44718ff47bd7c
 }
 
 /* FORMS */
@@ -151,6 +156,10 @@ svg {
 }
 
 .stats {
+<<<<<<< HEAD
+=======
+  display: flex;
+>>>>>>> 9c748bad7897acb9c726b4049ac44718ff47bd7c
   margin: 0 0 0 28px;
   font-weight: normal;
 }
