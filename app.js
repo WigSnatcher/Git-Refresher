@@ -12,7 +12,7 @@ const playersList =
     id:2
   },
   {
-    name: "Ashley",
+    name: "Jabari",
     score: 95,
     id:3
   },
