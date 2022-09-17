@@ -3,7 +3,7 @@ const playersList =
 [
   {
     name: "Guil",
-    score: 50,
+    score: 505,
     id:1
   },
   {
